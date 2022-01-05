@@ -9,8 +9,8 @@ body {
   font-family: Bbc, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: lightblue;
-  /* background-image: url("./assets/image/background.png"); */
+  /* background-color: #303030; */
+  background-image: url("./assets/image/background.png");
   background-size: cover;
   color: #ffffff;
 }
